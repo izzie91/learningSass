@@ -6,4 +6,4 @@ You see in this project:
 - extends and inherits
 - calculations
 
-find tutorial in https://www.youtube.com/watch?v=Zz6eOVaaelI 
+https://www.youtube.com/watch?v=Zz6eOVaaelI 
