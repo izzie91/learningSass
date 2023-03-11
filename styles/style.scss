@@ -1,0 +1,10 @@
+@import "./variables";
+@import "./header";
+
+.contact {
+  //@include flexCenter(row, red);
+  @extend header;
+  background: greenyellow;
+  background: coral;
+  width: 100%-80%;
+}

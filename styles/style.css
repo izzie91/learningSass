@@ -1,0 +1,24 @@
+header, .contact {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background: lightblue;
+  height: 100vh;
+}
+header button, .contact button {
+  background: rgb(147, 4, 4);
+}
+header button:hover, .contact button:hover {
+  cursor: pointer;
+  background: rgb(211, 42, 42);
+}
+header button::after, .contact button::after {
+  content: "Hellllloooo";
+}
+
+.contact {
+  background: greenyellow;
+  background: coral;
+  width: 20%;
+}/*# sourceMappingURL=style.css.map */
